@@ -1,9 +1,6 @@
-These are the games I created using GDevelop game engine.
+Two small 2D platformers built with the GDevelop engine and published online.
 
-They are available to play both at itch.io and gd.games websites.
+- **Platformerr** – 2D platformer with three levels of different difficulty. [Play on gd.games](https://gd.games/en/megenius/platformerr)
+- **The Savior Frog** – story-driven platformer made for GDevelop Game Jam 7 (#110 of 376 submissions for Fun & Game Design). [Play on gd.games](https://gd.games/en/megenius/the-savior-frog)
 
-- Platformerr: 2D platformer with three levels. Play:
-  https://gd.games/en/megenius/platformerr
-
-- The Savior Frog: story-driven platformer made for GDevelop Game Jam 7. Play:
-  https://gd.games/en/megenius/the-savior-frog
+Also available on itch.io: [megenius.itch.io](https://megenius.itch.io/)
